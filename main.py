@@ -1,5 +1,5 @@
-from copy_player import *
-from copy_recorder import *
+from audio_player import *
+from audio_recorder import *
 
 def get_input_and_run():
     action = input("Do you want to play or record? Type 'play' or 'record': ")
